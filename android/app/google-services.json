@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138474471327",
+    "project_id": "memesapp-8faee",
+    "storage_bucket": "memesapp-8faee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138474471327:android:4eaf40c7dd87b708c447aa",
+        "android_client_info": {
+          "package_name": "com.memeking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIIEJbl1APczHicc_Nn9U6bN4ts05Zqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
